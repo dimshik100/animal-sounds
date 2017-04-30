@@ -1,0 +1,268 @@
+{
+    "animals": [
+        {
+            "animal": "Antelopes",
+            "sound": "snort"
+        },
+        {
+            "animal": "Badgers",
+            "sound": "growl"
+        },
+        {
+            "animal": "Bats",
+            "sound": "screech"
+        },
+        {
+            "animal": "Bears",
+            "sound": "roar, growl"
+        },
+        {
+            "animal": "Bees",
+            "sound": "buzz"
+        },
+        {
+            "animal": "Big cats (tigers, lions, jaguars & leopards)",
+            "sound": "roar, growl, snarl"
+        },
+        {
+            "animal": "Bitterns",
+            "sound": "boom"
+        },
+        {
+            "animal": "Cats",
+            "sound": ["mew", "meow", "purr", "hiss"]
+        },
+        {
+            "animal": "Chickens",
+            "sound": "cluck (female; OP: cha-caw, bah-gawk ); crow (male; OP: cock-a-doodle-doo)"
+        },
+        {
+            "animal": "Chimpanzees",
+            "sound": "scream"
+        },
+        {
+            "animal": "Chinchillas",
+            "sound": "squeak"
+        },
+        {
+            "animal": "Cicadas",
+            "sound": "chirp"
+        },
+        {
+            "animal": "Cattle/Cows",
+            "sound": "moo"
+        },
+        {
+            "animal": "Crickets",
+            "sound": "chirp"
+        },
+        {
+            "animal": "Crows",
+            "sound": "caw, cah"
+        },
+        {
+            "animal": "Curlews",
+            "sound": "pipe"
+        },
+        {
+            "animal": "Deer",
+            "sound": "bellow (buck) bleat (doe, fawn)"
+        },
+        {
+            "animal": "Dogs/wolves",
+            "sound": "bark, howl, growl, bay (OP: arf, bow-wow, ruff, woof, yap)"
+        },
+        {
+            "animal": "Dolphins",
+            "sound": "click"
+        },
+        {
+            "animal": "Donkeys/asses",
+            "sound": "hee-haw also bray"
+        },
+        {
+            "animal": "Ducks",
+            "sound": "quack"
+        },
+        {
+            "animal": "Eagles",
+            "sound": "screech"
+        },
+        {
+            "animal": "Elephants",
+            "sound": "trumpet"
+        },
+        {
+            "animal": "Elk",
+            "sound": "bugle (male), bleat (calves)"
+        },
+        {
+            "animal": "Ferrets",
+            "sound": "dook"
+        },
+        {
+            "animal": "Frogs/toads",
+            "sound": "croak (OP: ribbit)"
+        },
+        {
+            "animal": "Giraffes",
+            "sound": "bleat"
+        },
+        {
+            "animal": "Geese",
+            "sound": "honk, hiss"
+        },
+        {
+            "animal": "Grasshoppers",
+            "sound": "chirp"
+        },
+        {
+            "animal": "Guinea pigs",
+            "sound": "squeak"
+        },
+        {
+            "animal": "Hamsters",
+            "sound": "squeak"
+        },
+        {
+            "animal": "Hermit crabs",
+            "sound": "chirp"
+        },
+        {
+            "animal": "Horses",
+            "sound": "neigh, whinny, nicker"
+        },
+        {
+            "animal": "Hippopotamuses",
+            "sound": "growl"
+        },
+        {
+            "animal": "Hyenas",
+            "sound": "laugh"
+        },
+        {
+            "animal": "Linnets",
+            "sound": "chuckle"
+        },
+        {
+            "animal": "Magpies",
+            "sound": "chatter"
+        },
+        {
+            "animal": "Mice/Rats",
+            "sound": "squeak"
+        },
+        {
+            "animal": "Monkeys",
+            "sound": "scream"
+        },
+        {
+            "animal": "Moose",
+            "sound": "bellow"
+        },
+        {
+            "animal": "Mosquitos",
+            "sound": "whine"
+        },
+        {
+            "animal": "Okapis",
+            "sound": "cough, bellow"
+        },
+        {
+            "animal": "Oxen",
+            "sound": "moo"
+        },
+        {
+            "animal": "Owls",
+            "sound": "hoot, hiss"
+        },
+        {
+            "animal": "Parrots",
+            "sound": "squawk, talking"
+        },
+        {
+            "animal": "Peacocks",
+            "sound": "scream"
+        },
+        {
+            "animal": "Pigs/hogs",
+            "sound": "oink, snort, squeal"
+        },
+        {
+            "animal": "Pigeons",
+            "sound": "coo"
+        },
+        {
+            "animal": "Prairie dogs",
+            "sound": "bark"
+        },
+        {
+            "animal": "Rabbits/Hares",
+            "sound": "squeak"
+        },
+        {
+            "animal": "Raccoons",
+            "sound": "trill"
+        },
+        {
+            "animal": "Ravens",
+            "sound": "croak"
+        },
+        {
+            "animal": "Rhinoceros",
+            "sound": "bellow"
+        },
+        {
+            "animal": "Rooks",
+            "sound": "caw"
+        },
+        {
+            "animal": "Seals",
+            "sound": "bark"
+        },
+        {
+            "animal": "Sheep/goats/lambs",
+            "sound": "bleat, baa"
+        },
+        {
+            "animal": "Snakes",
+            "sound": "hiss"
+        },
+        {
+            "animal": "Songbirds",
+            "sound": "chirrup, chirp, tweet, sing, warble (larks / warblers / wrens), twitter (sparrows)"
+        },
+        {
+            "animal": "Swans",
+            "sound": "cry, hiss"
+        },
+        {
+            "animal": "Tapirs",
+            "sound": "squeak"
+        },
+        {
+            "animal": "Tarantulas",
+            "sound": "hiss"
+        },
+        {
+            "animal": "Tokay geckos",
+            "sound": "croak"
+        },
+        {
+            "animal": "Turkeys",
+            "sound": "gobble"
+        },
+        {
+            "animal": "Vultures",
+            "sound": "scream"
+        },
+        {
+            "animal": "Walruses",
+            "sound": "groan"
+        },
+        {
+            "animal": "Whales",
+            "sound": "sing"
+        }
+    ]
+}
